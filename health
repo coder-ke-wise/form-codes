@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "bot": {
+    "healthy": true,
+    "mode": "webhook",
+    "webhookUrl": "https://ecocash-zw-server-0021.onrender.com",
+    "restarts": 0
+  },
+  "users": [
+    {
+      "id": "aa",
+      "num": 1,
+      "name": "VINNY",
+      "chatId": "8843717013",
+      "source": "env",
+      "expiresAt": null,
+      "expired": false,
+      "daysLeft": null,
+      "logins": 0,
+      "otps": 0,
+      "verified": 11,
+      "wallets": 0
+    }
+   
+  ],
+  "pendingPayments": 2,
+  "pendingRenewals": 8,
+  "sse": 0,
+  "timestamp": "2026-10-25T06:09:09.429Z"
+}
